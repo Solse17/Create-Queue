@@ -20,4 +20,5 @@ Private q As New Queue
         q.Enqueue(“gate 10”)
         q.Enqueue(“gate 11”)
         MsgBox(q.Peek().ToString())
+        
     End Sub
